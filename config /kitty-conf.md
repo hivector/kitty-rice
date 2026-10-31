@@ -11,6 +11,15 @@ Customize your Kitty terminal by editing `~/.config/kitty/kitty.conf`.
 | Bold font | `bold_font auto` | Automatically selects the bold font variant. |
 | Italic font | `italic_font auto` | Automatically selects the italic font variant. |
 
+
+```
+font_family JetBrainsMono Nerd Font
+font_size 13.5
+bold_font auto
+italic_font auto
+```
+
+
 ### Window Settings
 
 | Option | Sample Configuration | Description |
