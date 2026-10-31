@@ -20,6 +20,7 @@ italic_font auto
 ```
 
 
+
 ### Window Settings
 
 | Option | Sample Configuration | Description |
@@ -29,6 +30,15 @@ italic_font auto
 | Hide decorations | `hide_window_decorations yes` | Hides the window title bar and decorations. |
 | Background opacity | `background_opacity 0.90` | Makes the terminal background slightly transparent. |
 | Window border | `window_border_width 2` | Sets the border width between tiled windows. |
+
+
+```
+window_padding_width 10
+window_margin_width 4
+hide_window_decorations yes
+background_opacity 0.90
+window_border_width 2
+```
 
 ### Cursor Settings
 
